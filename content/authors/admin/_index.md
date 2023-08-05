@@ -56,7 +56,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KNSVSivaShankar
     label: Follow me on Twitter
     display:
       header: true
@@ -77,7 +77,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sai.kalahasthy@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

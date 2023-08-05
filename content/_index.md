@@ -45,16 +45,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: DevSecOps
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Cloud Security
+          description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: WAPT
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -72,23 +72,23 @@ sections:
         - title: Cyber Security Consultant
           company: Claranet
           company_url: 'https://www.claranet.com'
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-cl
+          location: LONDON (Permanant WFH)
+          date_start: '2021-07-04'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * DevSecOps 
+              * Cloud Security
+              * Research and Development
         - title: Cyber Security Engineer
           company: coMakeIT part of Xebia
           company_url: 'https://www.comakeit.com'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Hyderabad
+          date_start: '2017-12-18'
+          date_end: '2021-06-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -241,29 +241,29 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: sai.kalahasthy@gmail.com
+      phone: +91 891-931-6797
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/KNSVSivaShankar'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'live:sai.kalahasthy'
         - icon: video
           icon_pack: fas
           name: Zoom Me
