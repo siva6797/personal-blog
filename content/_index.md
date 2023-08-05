@@ -69,9 +69,9 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Cyber Security Consultant
+          company: Claranet
+          company_url: 'https://www.claranet.com'
           company_logo: org-gc
           location: California
           date_start: '2021-01-01'
@@ -82,9 +82,9 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Cyber Security Engineer
+          company: coMakeIT part of Xebia
+          company_url: 'https://www.comakeit.com'
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
