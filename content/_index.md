@@ -158,7 +158,7 @@ sections:
           date_start: '2020-06-02'
           description: 'You will learn about the types of security products that have been created by security vendors to address those problems.The completion of all lessons and associated quizzes in this course completes the requirement to obtain the NSE 2 level certification.'
           organization: Fortinet
-          organization_url:  https://training.fortinet.com/
+          organization_url: https://training.fortinet.com/
           title: 'Fortinet's Network Security Expert certification'
           url: 'https://training.fortinet.com/course/index.php/Certification:NSE_2'
     design:
