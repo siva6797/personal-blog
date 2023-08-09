@@ -83,6 +83,7 @@ email: 'sai.kalahasthy@gmail.com'
 highlight_name: true
 ---
 
-Hi my name is Siva Shankar Kalahasthy working as a Cyber Security Consultant at Claranet with an experience 0f 7+ years in Security Domain. I'm expertise in DevSecOps and Cloud Security. I mostly
-be upon the research work which includes developing the training content for DevSecOps and Cloud Infrastructure Hacking and testing and reviewing the training content for Blackhat and Nullcon.
+Hi my name is Siva Shankar Kalahasthy working as a Cyber Security Consultant at Claranet with an experience 0f 7+ years in Security Domain. I'm expertise in DevSecOps and Cloud Security. I mostly be upon the research work which includes developing the training content for DevSecOps and Cloud Infrastructure Hacking and testing and reviewing the training content for Blackhat and Nullcon.
+
+From my experience, I got to know the detailed knowledge of the SDLC(from Designing to Deployment) of products and made me so confident in dealing with the efficient way towards improving security, various technologies(Cyber Security(WAPT & VAPT), DevSecOps(git commit to Auto deployment in AKS), and QA(LSP testing, functional testing) and in managing the scrum which helps me to keep climbing the ladder in IT field. Maintaining transparency is the best way to achieve productivity goals. Team support and trust are the key essential things to improve myself in the respective field.
 {style="text-align: justify;"}
