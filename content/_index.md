@@ -137,21 +137,21 @@ sections:
           organization_url: https://www.splunk.com/
           title: Splunk 7.x Fundamentals Part 1
           url: 'https://www.splunk.com/en_us/training/splunk-fundamentals.html'
-        # - certificate_url: https://www.credential.net/8e84c047-e9f0-48e8-b7f0-a7fbd49c92f9?username=kalahasthysivashankar270007
-        #   date_end: ''
-        #   date_start: '2020-06-13'
-        #   description: 'Splunk Infrastructure Overview'
-        #   organization: Splunk
-        #   organization_url: https://www.datacamp.com
-        #   title: Splunk Infrastructure Overview
-        #   url: 'https://www.splunk.com/en_us/training/certification.html'
+        - certificate_url: https://www.credential.net/8e84c047-e9f0-48e8-b7f0-a7fbd49c92f9?username=kalahasthysivashankar270007
+          date_end: ''
+          date_start: '2020-06-13'
+          description: 'Splunk Infrastructure Overview'
+          organization: Splunk
+          organization_url: https://www.datacamp.com
+          title: Splunk Infrastructure Overview
+          url: 'https://www.splunk.com/en_us/training/certification.html'
         # - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
         #   date_end: '2022-06-02'
         #   date_start: '2020-06-02'
         #   description: 'Fortinet NSE 1 The Threat landscape gives the information about the cyber security threats that organizations are facing today.'
         #   organization: Fortinet
         #   organization_url: https://training.fortinet.com/
-        #   title: 'Fortinet NSE 1 The Threat landscape'
+        #   title: Fortinet NSE 1 The Threat landscape
         #   url: 'https://training.fortinet.com/course/index.php/Certification:NSE_1/'
         # - certificate_url: https://www.credential.net/d5327368-c12a-40f5-8260-074a484bd932?username=kalahasthysivashankar270007#gs.47sp24
         #   date_end: '2022-06-02'
