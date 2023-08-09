@@ -105,7 +105,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.credential.net/85ac160b-aa47-4c22-b624-1b8cba7ed61b?username=kalahasthysivashankar270007
+        - certificate_url: https://www.scrum.org/certificates/409114
           date_end: ''
           date_start: '2019-05-08'
           description: 'People who have passed PSM I, achieving certification, demonstrate a fundamental level of Scrum mastery. PSM I certificate holders prove that they understand Scrum as described in the Scrum Guide and how to apply Scrum in Scrum Teams. PSM I holders have a consistent terminology and approach to Scrum'
@@ -113,22 +113,54 @@ sections:
           organization_url: https://www.scrum.org
           title: Professional Scrum Master I
           url: 'https://www.scrum.org/assessments/professional-scrum-master-i-certification'
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/BK5LGVGPBN9D
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2021-05-02'
+          description: 'we will discuss the basics of Cloud computing: what it is, what it supports, and how it is delivered. We will delve into storage services, Cloud economics, levels of managed infrastructure, and Azure services. We will also explore different deployment models of Cloud computing, as well as several hosting scenarios. Last but not least, we will compare some of the cloud platforms and discuss the future of cloud computing.'
+          organization: coursera
+          organization_url: https://www.coursera.org
+          title: Cloud Computing Basics (Cloud 101)
+          url: https://www.coursera.org/account/accomplishments/verify/BK5LGVGPBN9D
+        - certificate_url: https://www.credential.net/ca71df9e-53f9-457e-ae09-439b930a1923#gs.47ucxc
+          date_end: ''
+          date_start: '2020-06-02'
+          description: 'CNSS Certified Network Security Specialist'
+          organization: ICSI
+          organization_url: https://icsiglobal.com
+          title: 'ICSI | CNSS Certified Network Security Specialist'
           url: ''
+        - certificate_url: https://www.credential.net/f618ff60-7d2e-4fb3-9262-cdc1afde4198?username=kalahasthysivashankar270007
+          date_end: ''
+          date_start: '2020-06-04'
+          description: 'Splunk Fundamentals'
+          organization: Splunk
+          organization_url: https://www.splunk.com/
+          title: 'Splunk 7.x Fundamentals Part 1'
+          url: 'https://www.splunk.com/en_us/training/splunk-fundamentals.html'
+        - certificate_url: https://www.credential.net/8e84c047-e9f0-48e8-b7f0-a7fbd49c92f9?username=kalahasthysivashankar270007
+          date_end: ''
+          date_start: '2020-06-13'
+          description: 'Splunk Infrastructure Overview'
+          organization: Splunk
+          organization_url: https://www.datacamp.com
+          title: 'Splunk Infrastructure Overview'
+          url: 'https://www.splunk.com/en_us/training/certification.html'
+        - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
+          date_end: '2022-06-02'
+          date_start: '2020-06-02'
+          description: 'Fortinet NSE 1 The Threat landscape gives the information about the cyber security threats that organizations are facing today.'
+          organization: Fortinet
+          organization_url: https://training.fortinet.com/
+          title: 'Fortinet NSE 1 The Threat landscape'
+          url: 'https://training.fortinet.com/course/index.php/Certification:NSE_1/'
+        - certificate_url: https://www.credential.net/d5327368-c12a-40f5-8260-074a484bd932?username=kalahasthysivashankar270007#gs.47sp24
+          date_end: '2022-06-02'
+          date_start: '2020-06-02'
+          description: 'You will learn about the types of security products that have been created by security vendors to address those problems.The completion of all lessons and associated quizzes in this course completes the requirement to obtain the NSE 2 level certification.'
+          organization: Fortinet
+          organization_url:  https://training.fortinet.com/
+          title: 'Fortinet's Network Security Expert certification'
+          url: 'https://training.fortinet.com/course/index.php/Certification:NSE_2'
     design:
       columns: '2'
   - block: collection
