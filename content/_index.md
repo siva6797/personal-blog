@@ -115,7 +115,6 @@ sections:
               -> Automating the code analysis using SonarQube.
               -> Deploying the products into Azure Kubernetes service(AKS) by Semi-Automation.
               -> Design and Implemented Distributed test environment for LSP testing
-              ---------------------------------------------------
               Researcher in Technology Innovation Center (TIC)(March 2018 - May 2018)
               -> Worked on AI/ML and developed Facial recognition System using Tensor flow.
         - title: Cyber Security Trainee
