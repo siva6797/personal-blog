@@ -105,14 +105,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.credential.net/85ac160b-aa47-4c22-b624-1b8cba7ed61b?username=kalahasthysivashankar270007
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          date_start: '2019-05-8'
+          description: 'People who have passed PSM I, achieving certification, demonstrate a fundamental level of Scrum mastery. PSM I certificate holders prove that they understand Scrum as described in the Scrum Guide and how to apply Scrum in Scrum Teams. PSM I holders have a consistent terminology and approach to Scrum'
+          organization: Scrum.org
+          organization_url: https://www.scrum.org
+          title: Professional Scrum Master I
+          url: 'https://www.scrum.org/assessments/professional-scrum-master-i-certification'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
