@@ -78,7 +78,6 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * DevSecOps 
               * Cloud Security
               * Research and Development
@@ -87,9 +86,50 @@ sections:
           company_url: 'https://www.comakeit.com'
           company_logo: org-x
           location: Hyderabad
-          date_start: '2017-12-18'
+          date_start: '2019-08-01'
           date_end: '2021-06-30'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+              Client: Iddinkgroup
+              Team size: 9
+              Projects: DMCT, Iddinkhub, SCIM and STUB
+              Job Role involves :
+              -Web Application Penetration Testing (WAPT)
+              -Vulnerability Assessment & Penetration Test (VAPT)
+              -DevSecOps design and implementation
+              -Scrum Master role performing Agile methodologies with in the team
+              -LSP testing for web application
+        - title: Associate Cyber Security Engineer
+          company: coMakeIT part of Xebia
+          company_url: 'https://www.comakeit.com'
+          company_logo: org-x
+          location: Hyderabad
+          date_start: '2018-03-16'
+          date_end: '2019-07-30'
+          description: |2-
+              Responsibilities include:
+              Client: Iddinkgroup
+              Projects: Digital Media Consumption Tracker (DMCT), IDDINKHUB
+              Team Size: 4
+              -> Performed web application security testing.
+              -> Automating the code analysis using SonarQube.
+              -> Deploying the products into Azure Kubernetes service(AKS) by Semi-Automation.
+              -> Design and Implemented Distributed test environment for LSP testing
+              ---------------------------------------------------
+              Researcher in Technology Innovation Center (TIC)(March 2018 - May 2018)
+              -> Worked on AI/ML and developed Facial recognition System using Tensor flow.
+        - title: Cyber Security Trainee
+          company: coMakeIT part of Xebia
+          company_url: 'https://www.comakeit.com'
+          company_logo: org-x
+          location: Hyderabad
+          date_start: '2017-12-18'
+          date_end: '2018-03-15'
+          description: |2-
+              Cyber Security Trainee
+              Responsibilities include:
+              -> Participated and Volunteered in OWASP meeting in organization.
+              -> Conducted some training session on awareness of Cyber security in todays world.
     design:
       columns: '2'
   - block: accomplishments
