@@ -121,14 +121,14 @@ sections:
           organization_url: https://www.coursera.org
           title: Cloud Computing Basics (Cloud 101)
           url: 'https://www.coursera.org/account/accomplishments/verify/BK5LGVGPBN9D'
-        # - certificate_url: https://www.credential.net/ca71df9e-53f9-457e-ae09-439b930a1923#gs.47ucxc
-        #   date_end: ''
-        #   date_start: '2020-06-02'
-        #   description: 'CNSS Certified Network Security Specialist'
-        #   organization: ICSI
-        #   organization_url: https://icsiglobal.com
-        #   title: 'ICSI | CNSS Certified Network Security Specialist'
-        #   url: ''
+        - certificate_url: https://www.credential.net/ca71df9e-53f9-457e-ae09-439b930a1923#gs.47ucxc
+          date_end: ''
+          date_start: '2020-06-02'
+          description: 'CNSS Certified Network Security Specialist'
+          organization: ICSI
+          organization_url: https://icsiglobal.com
+          title: ICSI | CNSS Certified Network Security Specialist
+          url: 'https://icsiglobal.com/?aad=BAhJIkN7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL2ljc2lnbG9iYWwuY29tIiwiaWQiOjE4ODk5NjQ0fQY6BkVU--dc7d2410d570340341904c4dc5a4e46187df929a'
         # - certificate_url: https://www.credential.net/f618ff60-7d2e-4fb3-9262-cdc1afde4198?username=kalahasthysivashankar270007
         #   date_end: ''
         #   date_start: '2020-06-04'
