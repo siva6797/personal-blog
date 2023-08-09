@@ -90,15 +90,15 @@ sections:
           date_end: '2021-06-30'
           description: |2-
               Responsibilities include:
-                Client: Iddinkgroup
-                Team size: 9
-                Projects: DMCT, Iddinkhub, SCIM and STUB
-                Job Role involves :
-                -Web Application Penetration Testing (WAPT)
-                -Vulnerability Assessment & Penetration Test (VAPT)
-                -DevSecOps design and implementation
-                -Scrum Master role performing Agile methodologies with in the team
-                -LSP testing for web application
+              * Client: Iddinkgroup
+              * Team size: 9
+              * Projects: DMCT, Iddinkhub, SCIM and STUB
+              * Job Role involves :
+                * Web Application Penetration Testing (WAPT)
+                * Vulnerability Assessment & Penetration Test (VAPT)
+                * DevSecOps design and implementation
+                * Scrum Master role performing Agile methodologies with in the team
+                * LSP testing for web application
         - title: Associate Cyber Security Engineer
           company: coMakeIT part of Xebia
           company_url: 'https://www.comakeit.com'
