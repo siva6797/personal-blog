@@ -145,22 +145,22 @@ sections:
           organization_url: https://www.datacamp.com
           title: Splunk Infrastructure Overview
           url: 'https://www.splunk.com/en_us/training/certification.html'
-        # - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
-        #   date_end: '2022-06-02'
-        #   date_start: '2020-06-02'
-        #   description: 'Fortinet NSE 1 The Threat landscape gives the information about the cyber security threats that organizations are facing today.'
-        #   organization: Fortinet
-        #   organization_url: https://training.fortinet.com/
-        #   title: Fortinet NSE 1 The Threat landscape
-        #   url: 'https://training.fortinet.com/course/index.php/Certification:NSE_1/'
-        # - certificate_url: https://www.credential.net/d5327368-c12a-40f5-8260-074a484bd932?username=kalahasthysivashankar270007#gs.47sp24
-        #   date_end: '2022-06-02'
-        #   date_start: '2020-06-02'
-        #   description: 'You will learn about the types of security products that have been created by security vendors to address those problems.The completion of all lessons and associated quizzes in this course completes the requirement to obtain the NSE 2 level certification.'
-        #   organization: Fortinet
-        #   organization_url: https://training.fortinet.com/
-        #   title: 'Fortinet's Network Security Expert certification'
-        #   url: 'https://training.fortinet.com/course/index.php/Certification:NSE_2'
+        - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
+          date_end: '2022-06-02'
+          date_start: '2020-06-02'
+          description: 'Fortinet NSE 1 The Threat landscape gives the information about the cyber security threats that organizations are facing today.'
+          organization: Fortinet
+          organization_url: https://training.fortinet.com/
+          title: Fortinet NSE 1 The Threat landscape
+          url: 'https://training.fortinet.com/course/index.php/Certification:NSE_1/'
+        - certificate_url: https://www.credential.net/d5327368-c12a-40f5-8260-074a484bd932?username=kalahasthysivashankar270007#gs.47sp24
+          date_end: '2022-06-02'
+          date_start: '2020-06-02'
+          description: 'You will learn about the types of security products that have been created by security vendors to address those problems.The completion of all lessons and associated quizzes in this course completes the requirement to obtain the NSE 2 level certification.'
+          organization: Fortinet
+          organization_url: https://training.fortinet.com/
+          title: Fortinet's Network Security Expert certification
+          url: 'https://training.fortinet.com/course/index.php/Certification:NSE_2'
     design:
       columns: '2'
   - block: collection
