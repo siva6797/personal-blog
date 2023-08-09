@@ -108,7 +108,7 @@ sections:
         - certificate_url: https://www.scrum.org/certificates/409114
           date_end: ''
           date_start: '2019-05-08'
-          description: 'People who have passed PSM I, achieving certification, demonstrate a fundamental level of Scrum mastery. PSM I certificate holders prove that they understand Scrum as described in the Scrum Guide and how to apply Scrum in Scrum Teams. PSM I holders have a consistent terminology and approach to Scrum'
+          description: 'PSM I certification holders showcase foundational Scrum mastery, understanding Scrum Guide principles and effective application within Scrum Teams with consistent terminology and approach.'
           organization: Scrum.org
           organization_url: https://www.scrum.org
           title: Professional Scrum Master I
@@ -116,7 +116,7 @@ sections:
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/BK5LGVGPBN9D
           date_end: ''
           date_start: '2021-05-02'
-          description: 'we will discuss the basics of Cloud computing: what it is, what it supports, and how it is delivered. We will delve into storage services, Cloud economics, levels of managed infrastructure, and Azure services. We will also explore different deployment models of Cloud computing, as well as several hosting scenarios. Last but not least, we will compare some of the cloud platforms and discuss the future of cloud computing.'
+          description: 'This covers storage, Cloud economics, managed infrastructure levels, Azure services, Cloud deployment models, hosting scenarios, cloud platform comparison, and the future of cloud computing.'
           organization: coursera
           organization_url: https://www.coursera.org
           title: Cloud Computing Basics (Cloud 101)
@@ -129,21 +129,21 @@ sections:
           organization_url: https://icsiglobal.com
           title: ICSI | CNSS Certified Network Security Specialist
           url: 'https://icsiglobal.com/?aad=BAhJIkN7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL2ljc2lnbG9iYWwuY29tIiwiaWQiOjE4ODk5NjQ0fQY6BkVU--dc7d2410d570340341904c4dc5a4e46187df929a'
-        # - certificate_url: https://www.credential.net/f618ff60-7d2e-4fb3-9262-cdc1afde4198?username=kalahasthysivashankar270007
-        #   date_end: ''
-        #   date_start: '2020-06-04'
-        #   description: 'Splunk Fundamentals'
-        #   organization: Splunk
-        #   organization_url: https://www.splunk.com/
-        #   title: 'Splunk 7.x Fundamentals Part 1'
-        #   url: 'https://www.splunk.com/en_us/training/splunk-fundamentals.html'
+        - certificate_url: https://www.credential.net/f618ff60-7d2e-4fb3-9262-cdc1afde4198?username=kalahasthysivashankar270007
+          date_end: ''
+          date_start: '2020-06-04'
+          description: 'Splunk Fundamentals'
+          organization: Splunk
+          organization_url: https://www.splunk.com/
+          title: Splunk 7.x Fundamentals Part 1
+          url: 'https://www.splunk.com/en_us/training/splunk-fundamentals.html'
         # - certificate_url: https://www.credential.net/8e84c047-e9f0-48e8-b7f0-a7fbd49c92f9?username=kalahasthysivashankar270007
         #   date_end: ''
         #   date_start: '2020-06-13'
         #   description: 'Splunk Infrastructure Overview'
         #   organization: Splunk
         #   organization_url: https://www.datacamp.com
-        #   title: 'Splunk Infrastructure Overview'
+        #   title: Splunk Infrastructure Overview
         #   url: 'https://www.splunk.com/en_us/training/certification.html'
         # - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
         #   date_end: '2022-06-02'
