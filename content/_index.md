@@ -120,47 +120,47 @@ sections:
           organization: coursera
           organization_url: https://www.coursera.org
           title: Cloud Computing Basics (Cloud 101)
-          url: https://www.coursera.org/account/accomplishments/verify/BK5LGVGPBN9D
-        - certificate_url: https://www.credential.net/ca71df9e-53f9-457e-ae09-439b930a1923#gs.47ucxc
-          date_end: ''
-          date_start: '2020-06-02'
-          description: 'CNSS Certified Network Security Specialist'
-          organization: ICSI
-          organization_url: https://icsiglobal.com
-          title: 'ICSI | CNSS Certified Network Security Specialist'
-          url: ''
-        - certificate_url: https://www.credential.net/f618ff60-7d2e-4fb3-9262-cdc1afde4198?username=kalahasthysivashankar270007
-          date_end: ''
-          date_start: '2020-06-04'
-          description: 'Splunk Fundamentals'
-          organization: Splunk
-          organization_url: https://www.splunk.com/
-          title: 'Splunk 7.x Fundamentals Part 1'
-          url: 'https://www.splunk.com/en_us/training/splunk-fundamentals.html'
-        - certificate_url: https://www.credential.net/8e84c047-e9f0-48e8-b7f0-a7fbd49c92f9?username=kalahasthysivashankar270007
-          date_end: ''
-          date_start: '2020-06-13'
-          description: 'Splunk Infrastructure Overview'
-          organization: Splunk
-          organization_url: https://www.datacamp.com
-          title: 'Splunk Infrastructure Overview'
-          url: 'https://www.splunk.com/en_us/training/certification.html'
-        - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
-          date_end: '2022-06-02'
-          date_start: '2020-06-02'
-          description: 'Fortinet NSE 1 The Threat landscape gives the information about the cyber security threats that organizations are facing today.'
-          organization: Fortinet
-          organization_url: https://training.fortinet.com/
-          title: 'Fortinet NSE 1 The Threat landscape'
-          url: 'https://training.fortinet.com/course/index.php/Certification:NSE_1/'
-        - certificate_url: https://www.credential.net/d5327368-c12a-40f5-8260-074a484bd932?username=kalahasthysivashankar270007#gs.47sp24
-          date_end: '2022-06-02'
-          date_start: '2020-06-02'
-          description: 'You will learn about the types of security products that have been created by security vendors to address those problems.The completion of all lessons and associated quizzes in this course completes the requirement to obtain the NSE 2 level certification.'
-          organization: Fortinet
-          organization_url: https://training.fortinet.com/
-          title: 'Fortinet's Network Security Expert certification'
-          url: 'https://training.fortinet.com/course/index.php/Certification:NSE_2'
+          url: 'https://www.coursera.org/account/accomplishments/verify/BK5LGVGPBN9D'
+        # - certificate_url: https://www.credential.net/ca71df9e-53f9-457e-ae09-439b930a1923#gs.47ucxc
+        #   date_end: ''
+        #   date_start: '2020-06-02'
+        #   description: 'CNSS Certified Network Security Specialist'
+        #   organization: ICSI
+        #   organization_url: https://icsiglobal.com
+        #   title: 'ICSI | CNSS Certified Network Security Specialist'
+        #   url: ''
+        # - certificate_url: https://www.credential.net/f618ff60-7d2e-4fb3-9262-cdc1afde4198?username=kalahasthysivashankar270007
+        #   date_end: ''
+        #   date_start: '2020-06-04'
+        #   description: 'Splunk Fundamentals'
+        #   organization: Splunk
+        #   organization_url: https://www.splunk.com/
+        #   title: 'Splunk 7.x Fundamentals Part 1'
+        #   url: 'https://www.splunk.com/en_us/training/splunk-fundamentals.html'
+        # - certificate_url: https://www.credential.net/8e84c047-e9f0-48e8-b7f0-a7fbd49c92f9?username=kalahasthysivashankar270007
+        #   date_end: ''
+        #   date_start: '2020-06-13'
+        #   description: 'Splunk Infrastructure Overview'
+        #   organization: Splunk
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Splunk Infrastructure Overview'
+        #   url: 'https://www.splunk.com/en_us/training/certification.html'
+        # - certificate_url: https://www.credential.net/58f73b45-2035-4ade-beec-75fcd517b3ef?username=kalahasthysivashankar270007#gs.47shxh
+        #   date_end: '2022-06-02'
+        #   date_start: '2020-06-02'
+        #   description: 'Fortinet NSE 1 The Threat landscape gives the information about the cyber security threats that organizations are facing today.'
+        #   organization: Fortinet
+        #   organization_url: https://training.fortinet.com/
+        #   title: 'Fortinet NSE 1 The Threat landscape'
+        #   url: 'https://training.fortinet.com/course/index.php/Certification:NSE_1/'
+        # - certificate_url: https://www.credential.net/d5327368-c12a-40f5-8260-074a484bd932?username=kalahasthysivashankar270007#gs.47sp24
+        #   date_end: '2022-06-02'
+        #   date_start: '2020-06-02'
+        #   description: 'You will learn about the types of security products that have been created by security vendors to address those problems.The completion of all lessons and associated quizzes in this course completes the requirement to obtain the NSE 2 level certification.'
+        #   organization: Fortinet
+        #   organization_url: https://training.fortinet.com/
+        #   title: 'Fortinet's Network Security Expert certification'
+        #   url: 'https://training.fortinet.com/course/index.php/Certification:NSE_2'
     design:
       columns: '2'
   - block: collection
