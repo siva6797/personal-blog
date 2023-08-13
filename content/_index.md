@@ -47,15 +47,15 @@ sections:
       items:
         - name: DevSecOps
           description: 100%
-          icon: r-project
+          icon: circle-nodes
           icon_pack: fab
         - name: Cloud Security
           description: 80%
-          icon: chart-line
+          icon: cloud
           icon_pack: fas
         - name: WAPT
           description: 70%
-          icon: camera-retro
+          icon: hat-cowboy
           icon_pack: fas
   - block: experience
     content:
@@ -334,10 +334,10 @@ sections:
           icon_pack: fab
           name: Skype Me
           link: 'live:sai.kalahasthy'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
