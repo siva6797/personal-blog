@@ -47,7 +47,7 @@ sections:
       items:
         - name: DevSecOps
           description: 100%
-          icon: circle-nodes
+          icon: fa-circle-nodes
           icon_pack: fab
         - name: Cloud Security
           description: 80%
