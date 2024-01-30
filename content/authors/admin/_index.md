@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PGDM in Cyber Security
+    - course: Masters in Cyber Security
       institution: International Institute of Digital Technology
-      year: 2017
+      year: 2018
     - course: BTech in Computer Science Engineering
       institution: SRKR Engineering collage
       year: 2016
@@ -83,7 +83,7 @@ email: 'sai.kalahasthy@gmail.com'
 highlight_name: true
 ---
 
-Hi my name is **Siva Shankar Kalahasthy** working as a Cyber Security Consultant at Claranet with an experience 0f 6+ years in Security Domain. I'm expertise in **DevSecOps and Cloud Security**. I primarily focuses on research, specifically in the areas of developing training content for **DevSecOps and Cloud Infrastructure Hacking**. My responsibilities also involve testing, as well as developing and reviewing training content for prominent cybersecurity events such as **Blackhat and Nullcon**.
+Hi my name is **Siva Shankar Kalahasthy** working as a Cyber Security Consultant at Claranet with an experience 0f 6+ years in Security Domain. I have expertise in **DevSecOps and Cloud Security**. My primarily focuse on research, specifically in the areas of developing training content for **DevSecOps and Cloud Infrastructure Hacking**. My responsibilities also involve testing, as well as developing and reviewing training content for prominent cybersecurity events such as **Blackhat and Nullcon**.
 
-My experience has provided a comprehensive understanding of the **Software Development Life Cycle (SDLC)**, spanning from design to deployment. They exhibit confidence in enhancing security through various technologies such as **Cyber Security (WAPT & VAPT)**, **DevSecOps (git commit to Auto deployment in AKS)**, and **Quality Assurance (LSP testing, functional testing)**. Additionally, serving as a **Scrum Master** has contributed to the growth of the IT field, emphasizing the importance of transparency, team support, and trust for personal improvement.
+My experience has provided a comprehensive understanding of the **Software Development Life Cycle (SDLC)**, spanning from design to deployment. These foundation has been a road map for enhancing security through various technologies such as **Cyber Security (WAPT & VAPT)**, **DevOps (git commit to Auto deployment in AKS)**, and **Quality Assurance (LSP testing, functional testing)**. Additionally, serving as **Scrum Master** contributed to the growth of the IT field, emphasizing the importance of transparency, team support, and trust for personal improvement.
 {style="text-align: justify;"}

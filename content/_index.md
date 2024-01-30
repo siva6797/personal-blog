@@ -126,7 +126,7 @@ sections:
           date_end: '2018-03-15'
           description: |2-
               Responsibilities include:
-              * Participated and Volunteered in OWASP meeting in organization.
+              * Volunteered and Participated in OWASP meeting hosted within organization.
               * Conducted some training session on awareness of Cyber security in todays world.
     design:
       columns: '2'
@@ -249,8 +249,6 @@ sections:
           tag: DevSecOps
         - name: CyberSecurity
           tag: CyberSecurity
-        - name: Travel
-          tag: Travel
         - name: Other
           tag: Demo
     design:
