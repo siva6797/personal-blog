@@ -245,8 +245,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: DevSecOps
+          tag: DevSecOps
+        - name: CyberSecurity
+          tag: CyberSecurity
+        - name: Travel
+          tag: Travel
         - name: Other
           tag: Demo
     design:
