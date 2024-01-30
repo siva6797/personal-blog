@@ -22,7 +22,7 @@ organizations:
     url: https://www.claranet.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include DevSecOps, Cloud Security, Web Application Penetration Testing, and Vulnerability Assessment & Penetration Testing .
 
 # Interests to show in About widget
 interests:
@@ -86,4 +86,4 @@ highlight_name: true
 Hi my name is **Siva Shankar Kalahasthy** working as a Cyber Security Consultant at Claranet with an experience 0f 6+ years in Security Domain. I have expertise in **DevSecOps and Cloud Security**. My primarily focuse on research, specifically in the areas of developing training content for **DevSecOps and Cloud Infrastructure Hacking**. My responsibilities also involve testing, as well as developing and reviewing training content for prominent cybersecurity events such as **Blackhat and Nullcon**.
 
 My experience has provided a comprehensive understanding of the **Software Development Life Cycle (SDLC)**, spanning from design to deployment. These foundation has been a road map for enhancing security through various technologies such as **Cyber Security (WAPT & VAPT)**, **DevOps (git commit to Auto deployment in AKS)**, and **Quality Assurance (LSP testing, functional testing)**. Additionally, serving as **Scrum Master** contributed to the growth of the IT field, emphasizing the importance of transparency, team support, and trust for personal improvement.
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
