@@ -36,6 +36,7 @@ tags:
 
 categories:
   - CyberSecurity
+  - KaliLinuxTools
 ---
 
 ## **Introduction to Kali Linux:**

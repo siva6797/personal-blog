@@ -33,9 +33,11 @@ authors:
 
 tags:
   - CyberSecurity
+  - KaliLinuxTools
 
 categories:
   - CyberSecurity
+  - KaliLinuxTools
 ---
 
 ## **Exploring Network with Nmap: A Comprehensive Guide**

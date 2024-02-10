@@ -1,6 +1,6 @@
 ---
 title: Unveiling the Power of Metasploit Framework in Kali Linux
-subtitle: ''
+subtitle: 'Harnessing the Power of Metasploit: A Journey into Ethical Hacking and Cybersecurity'
 
 # Summary for listings and search engines
 summary: 'A Comprehensive Guide to Metasploit Framework in Kali Linux'
@@ -36,6 +36,7 @@ tags:
 
 categories:
   - CyberSecurity
+  - KaliLinuxTools
 ---
 
 ## **Unveiling the Power of Metasploit Framework in Kali Linux: A Complete Guide to Ethical Hacking**
@@ -116,12 +117,13 @@ Metasploit Framework in Kali Linux is a indispensable tool for security professi
 
 ### References:
 
-- Metasploit Unleashed
-- Metasploit Framework Documentation
-- Kali Linux Documentation
-- Rapid7
+- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/)
+- [Metasploit Framework Documentation](https://docs.metasploit.com/)
+- [Kali Linux Documentation](https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/)
+- [Rapid7](https://github.com/rapid7/metasploit-framework)
 
-
+{{% callout warning %}}
 **Disclaimer:**
 This blog post is intended for educational purposes only. The author and publisher do not endorse or condone any unauthorized or illegal activities conducted using Metasploit or any other hacking tools. Always ensure that you have proper authorization before conducting security assessments or penetration tests.
 {style="text-align: justify;"}
+{{% /callout %}}
