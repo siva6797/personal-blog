@@ -66,7 +66,7 @@ Scrum is included in the Agile model.
 
 DevOps seeks to create collaboration among IT silos so that QA teams, software developers, and operations admins/engineers work together throughout the SDLC.
 
-<image>
+![SDLC](./images/ssdlc.png "Difference between Waterfall, Agile and DevOps")
 
 Many IT firms do not have a large budget for security or don’t make it a priority.
 
@@ -82,7 +82,7 @@ Adding Security into the SDLC is imperative as it includes small and important f
 
 By implementing and testing security throughout development, companies are able to allocate resources to future projects, rather than going back and fixing costly errors. Without security built-in from the project conception, there is a window of opportunity for cyber-criminals to breach an application's defenses.
 
-<image>
+![Difference between SDLC and SSDLC](./images/diffence-between-ssdlc-and-sdlc.png "Difference between SDLC and SSDLC")
 
 SECURE SOFTWARE DEVELOPMENT LIFE CYCLE's goal is to help organizations integrate security into all phases of software development. We have to begin the Secure Development Life Cycle process by educating developers and executives, while also raising security awareness within organizations. We have to perform threat modeling, write security abuse cases, and conduct security tests during the requirements and planning phases. We have to utilize automated security scanners during the development and verification phases. We have to also build and utilize post-production security monitoring systems after release. By completing the feedback between development and operations, our work allows critical security information to become visible to everyone on the project team.
 
@@ -108,23 +108,23 @@ The resources in the project are mostly from the Azure Cloud which gives you a d
 
 Create an Azure account and go to create a resource in the search box Type Jenkins as shown below
 
-<image>
+![Jenkins as a service in the Azure ](./images/image1.png "Jenkins as a service in the Azure ")
 
 where you can see the Jenkins as a service in Azure, click on create and configure accordingly for your requirement as follows
 
-<image>
+![Jenkins as a service](./images/image-2.png "Jenkins as a service")
 
 Once it's created it is as follows:
 
-<image>
+![Jenkins as a service in Azure](./images/image-3.png "Jenkins as a service in Azure")
 
 Connect to the VM by clicking on the Jenkins VM and select connect option in the menu bar and select to connect with the SSH access where it will show you the SSH command for connecting to the VM as follows:
 
-<image>
+![To connect to Jenkins VM through SSH](./images/connecting-to-vm.png "To connect to Jenkins VM through SSH")
 
 get the command and run it via cmd prompt where it asks for the password which you have previously configured while cresting the VM should be provided as follows:
 
-<image>
+![Accessing the VM through SSH](./images/vm-access-1.png "Accessing the VM through SSH")
 
 ### **Binding Jenkins as a service to Public domain where everyone can access securely**
 
@@ -132,21 +132,21 @@ Click on the Jenkins VM which shows the properties of the VM
 
 copy the DNS domain name which is given below:
 
-<image>
+![DNS name of Jenkins](./images/jenkins.png "DNS name of Jenkins")
 
 <Specified name of reource>.westeurope.cloudapp.azure.com Go to **Continuous Deployment** resource group in specified subscription
 
 create a DNS zone and select DNS zone resource as shown below:
 
-<image>
+![Create DNS zone](./images/dns-zone.png "Create DNS zone")
 
 click on add recordset as shown below:
 
-<image>
+![Add a recordset](./images/record-set.png "Add a recordset")
 
 and create the **CNAME** record set with Jenkins as shown below
 
-<image>
+![select CNAME type and provide the Domain name](./images/cname.png "select CNAME type and provide the Domain name")
 
 **NOTE:** The above image shows "jenkins" in name field is only for example as the name "jenkins" is already configured.
 
@@ -226,7 +226,7 @@ sudo systemctl restart nginx
 
 go to manage Jenkins → configuration → Jenkins location and configure as shown below: 
 
-<image>
+![configure Jenkins location in Jenkins](./images/jenkins-location.png "configure Jenkins location in Jenkins")
 configure Jenkins location in Jenkins
 
 ### **Automating Deployment through freestyle job**
@@ -253,13 +253,13 @@ go to Jenkins and create a freestyle project
 
 as shown below example:
 
-<image>
+![Freestyle job in jenkins](./images/jenkins-freejob.png "Freestyle job in jenkins")
 
 Freestyle job in jenkins
 
 once the job is created it will be as follows:
 
-<image>
+![Job in Jenkins](./images/job-in-jenkins.png "Job in Jenkins")
 
 Job in Jenkins
 
@@ -271,7 +271,7 @@ https://github.com/settings/tokens
 
 and configure the GIT as follows:
 
-<image>
+![Accessing the private GIT repository](./images/git-access-in-jenkins.png "Accessing the private GIT repository")
 
 Accessing the private GIT repository
 
@@ -281,7 +281,7 @@ place the following git URL
 
 in credentials select for the secrete 
 
-<image>
+![Git token as secrete in Jenkins credentials](./images/git-token-as-secrete-in-jenkins-credentials.png "Git token as secrete in Jenkins credentials")
 
 Git token as secrete in Jenkins credentials
 
@@ -297,7 +297,7 @@ in **additional behaviors** go to  check out to the sub-directory and select th
 
 please configure it as follows :
 
-<image>
+![Build code for Jenkins which I had used for my job](./images/build-code-for-jenkins.png "Build code for Jenkins which I had used for my job")
 
 Build code for Jenkins which I had used for my job
 
@@ -339,7 +339,7 @@ kubectl delete --all pods --namespace=default
 
 ### demo-deployment.yaml file contents as follows
 
-<image>
+![demo deplyoment YAML file](./images/demo-deplyoment-yaml-file.png "demo deplyoment YAML file")
 
 demo deplyoment YAML file
 
@@ -353,37 +353,39 @@ Installation of SonarQube in windows:
 
 as shown below:
 
-<image>
+![SonarQube](./images/sonarqube.png "SonarQube")
 
 these files were used to download as ZIP as shown below.
-<image>
+![SonarQube ZIP files](./images/zip-files.png "SonarQube ZIP files")
 extract them to C: drive
-<image>
+![SonarQube extracted files](./images/extracted-files.png "SonarQube extracted files")
 run the sonar server by going to the following path:
 
 **C:\sonarqube-6.7.6\bin\windows-x86-64**
 
+![sonarqube-path](./images/sonarqube-path.png "sonarqube-path")
+
 give the bin path of SonarQube and SonarScanner in the environment path variables
 
 as shown below
-<image>
+![sonar-path-configuring](./images/sonar-path-configuring.png "sonar-path-configuring")
 open **cmd** over there as shown below:
-<image>
+![cmd](./images/cmd.png "cmd")
 and give the following command
 
 ```StartSonar.bat```
 
-<image>
+![sonarbat](./images/sonarbat.png "sonarbat")
 
 and click on enter then the sonar server starts running as shown below
 
-<image>
+![startsonar](./images/startsonar.png "startsonar")
 
 after the sonarQube server is up on running go to the following link where sonarQube starts running in **9000** port
 
 ```http://localhost:9000```
 
-<image>
+![sonarlogin-page](./images/sonarlogin-page.png "sonarlogin-page")
 
 the default username and password is **admin**
 
@@ -393,15 +395,15 @@ in our case, it's **java** and **maven** and click on generate the token
 
 as shown below:
 
-<image>
+![generate-token-1](./images/generate-token-1.png "generate-token-1")
 
 generated token as shown below:
 
-<image>
+![hub-token](./images/hub-token.png "hub-token")
 
 generating the command after specifying build technology;
 
-<image>
+![command-for-sonarqube](./images/command-for-sonarqube.png "command-for-sonarqube")
 
 run the following command in the specific directory for Demo and Router
 
@@ -412,17 +414,17 @@ mvn sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=<token gene
 ```
 After the code analysis by SonarQube go to projects there you can see as following:
 
-<image>
+![test-report-of-sonarqube](./images/test-report-of-sonarqube.png "test-report-of-sonarqube")
 
 If you want the code coverage please add the Jacoco plugin in **pom.xml** in DEMO
 
 You have to add the same sonar code command in the Jenkins as a service(LINUX) in the Job build as shown below before building the code:
 
-<image>
+![build-code-for-jenkins](./images/build-code-for-jenkins.png "build-code-for-jenkins")
 
 if everything is properly configured you can see as follows:
 
-<image>
+![successful-job](./images/successful-job-1.png "successful-job")
 
 you can see the successful job as follows after you trigger the build
 
