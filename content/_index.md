@@ -73,9 +73,9 @@ sections:
           company: Claranet
           company_url: 'https://www.claranet.com'
           company_logo: org-cl
-          location: LONDON (Permanant WFH)
+          location: Permanant-WFH
           date_start: '2021-07-04'
-          date_end: ''
+          date_end: '2023-10-12'
           description: |2-
               Responsibilities include:
               * DevSecOps 
