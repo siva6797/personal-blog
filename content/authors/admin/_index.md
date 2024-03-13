@@ -29,6 +29,12 @@ interests:
   - Cyber Security
   - DevSecOps
   - Cloud Security
+  - Infrastructure As Code
+  - GitOps
+  - Azure DevOps
+  - Security Automation
+  - Terraform
+  - Team Leadership/Management
 
 # Education to show in About widget
 education:
