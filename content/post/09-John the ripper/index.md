@@ -3,7 +3,7 @@ title: 'Unleash the Power of John the Ripper on Kali Linux: Cracking Passwords M
 subtitle: 'In the realm of cybersecurity, staying ahead of potential threats is paramount. As technology advances, so do the techniques used by hackers to breach security measures. In this digital age, having robust tools at your disposal is crucial for safeguarding sensitive information. One such tool that has garnered widespread acclaim in the cybersecurity community is John the Ripper.'
 
 # Summary for listings and search engines
-summary: 'Harnessing John the Ripper's Power on Kali Linux'
+summary: 'Harnessing John the Ripper Power on Kali Linux'
 
 # Link this post with a project
 projects: []
